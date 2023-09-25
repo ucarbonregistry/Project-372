@@ -3,6 +3,68 @@
 ________________________
 PRIOR CDM HISTORY:
 
+Project 1015 : 25.70 MW Bundled Wind Power Project in Udumalpet, Tamilnadu
+
+CDM Registration Date	07 Jul 2007
+
+Crediting Period	24 Jun 05 - 23 Jun 15 (Fixed)
+
+______________
+Monitoring Period : 24 Jun 2005 - 12 Nov 2007
+
+Issuance request state: Issued
+
+CERs Issued: 107390 tCO2
+
+Serial Range: Block start: IN-5-119249446-1-1-0-1015      Block end: IN-5-119356835-1-1-0-1015
+______________________
+
+Monitoring Period: 13 Nov 2007 - 10 Nov 2010
+
+Issuance request state: Issued
+
+CERs Issued: 127663 tCO2
+
+Serial Range: Block start: IN-5-171104393-1-1-0-1015      Block end: IN-5-171232055-1-1-0-1015
+______________
+Monitoring Period : 11 Nov 2010 - 07 Mar 2013
+
+Issuance request state: Awaiting issuance request
+
+_______________________
+Project 3815 : Wind Power Generation Project activity by Interocean Shipping India Private Limited
+
+Registration Date	20 Nov 2010
+_____________________________
+Monitoring Period : 20 Nov 2010 - 24 Nov 2011
+
+Issuance request state: Issued
+
+CERs Issued : 10292 tCO2
+
+Serial Range: Block start: IN-5-148796834-1-1-0-3815      Block end: IN-5-148807125-1-1-0-3815
+________________________________
+
+
+Monitoring Period: 25 Nov 2011 - 12 Aug 2014 
+
+Issuance request state: Issued
+
+CERs Issued: 11618
+
+Serial Range: Block start: IN-5-211708740-1-1-0-3815      Block end: IN-5-211720357-1-1-0-3815
+
+Serial Range: Block start: IN-5-211720358-2-2-0-3815      Block end: IN-5-211735530-2-2-0-3815
+_____________________________
+
+Monitoring Period: 13 Aug 2014 - 19 Nov 2020 
+
+Issuance request state: Awaiting issuance request
+
+______________________
+
+____________________
+
 Some of the WTGs in the project activity were registered under CDM/VCS for a fixed crediting
 period. The Credits issued under CDM/VCS will not be issued under UCR as CoUs. The details of
 the same are as per below.
